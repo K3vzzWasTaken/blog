@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reseña CAPENX (The Secops Group)"
+title:  "Reseña CAPENX (The Secops Group) [ENGLISH]"
 date:   2024-07-02
 last_modified_at: 2024-07-02
 categories: [Certifications]
@@ -8,22 +8,22 @@ categories: [Certifications]
 
 ---
 
-**FOR ENGLISH VERSION PLEASE [CLICK HERE][click-here]**
+**Si quieres leer la versión en español, da [CLICK AQUI][click-here]**
 ---
 
-**Nombre:** Certified AppSec Pentesting eXpert (CAPenX)
+**Name:** Certified AppSec Pentesting eXpert (CAPenX)
 
-**Compañia:** The SecOps Group
+**Company:** The SecOps Group
 
-**Precio:** £800
+**Price:** £800
 
-**Cupon (Actualizado al 03/07/2024):** ANNIVERSARY-80-OFF
+**Coupon (Updated 03/07/2024):** ANNIVERSARY-80-OFF
 
-**Precio despues del cupon:** £80
+**Price afert coupon:** £80
 
-**Dificultad:** Intermedio/Avanzado
+**Difficulty:** Intermediate/Advanced
 
-**Recomendada:** Depende del precio, pero en general Si.
+**Recommended:** It depends on the price, but in general, **YES.**
 
 **Url:** https://secops.group/product/certified-appsec-pentesting-expert-capenx/
 
@@ -156,4 +156,4 @@ Sinceramente pense que seria una certificación muy facil que terminaria en un p
 * CRLF & Response Splitting
 * File Inclusion
 
-[click-here]: https://k3vzz.com/blog/2024/07/02/review-capenx-english
+[click-here]: https://k3vzz.com/blog/2024/07/02/review-capenx-español
