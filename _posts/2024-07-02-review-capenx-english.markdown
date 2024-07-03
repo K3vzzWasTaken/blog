@@ -30,13 +30,13 @@ categories: [Certifications]
 
 <br /><br /><br />
 
-## ¿Que incluye?
+## What does it include?
 
-Como es constumbre, las certificaciones de The SecOps Group no incluyen ningun tipo de curso o capacitación, el precio es unicamente por el examen y un retake.
+As usual, The SecOps Group certifications do not include any type of course or training, the price is only for the exam and a retake.
 
 <br /><br />
 
-## What does it include?
+## What is the exam like?
 
 The exam is a CTF type evaluation, in which we are presented with multiple flags, which we have to obtain by exploiting vulnerabilities.
 
