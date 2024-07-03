@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reseña CAPENX (The Secops Group) [ENGLISH]"
+title:  "Review CAPENX (The Secops Group) [ENGLISH]"
 date:   2024-07-02
 last_modified_at: 2024-07-02
 categories: [Certifications]
