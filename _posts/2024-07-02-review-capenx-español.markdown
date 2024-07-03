@@ -7,8 +7,13 @@ categories: [Certifications]
 ---
 
 ---
+---
+---
 
 **FOR ENGLISH VERSION PLEASE [CLICK HERE][click-here]**
+
+---
+---
 ---
 
 **Nombre:** Certified AppSec Pentesting eXpert (CAPenX)
@@ -35,6 +40,8 @@ categories: [Certifications]
 
 Como es constumbre, las certificaciones de The SecOps Group no incluyen ningun tipo de curso o capacitación, el precio es unicamente por el examen y un retake.
 
+---
+---
 
 ## ¿Como es el examen?
 
@@ -46,6 +53,8 @@ Un dato muy importante es que el puntaje de la flag depende de la dificultad de 
 
 Este examen no es supervisado, y se requiere una conexión a una VPN proporcionada por ellos.
 
+---
+---
 
 ## ¿Como se lleva a cabo la compra?
 
@@ -59,6 +68,9 @@ Esto debido a que el proceso de compra es el siguiente:
 2. Rellenas los datos en el formulario que se te presenta en dicho sitio.
 3. En el correo que colocaste, se te envia tu acceso a la vpn, usuario para presentar el examen, y urls de conexión.
 
+---
+---
+
 ## Puntos Positivos
 
 * Esta certificación es algo avanzada, debido a que es necesario llevar a cabo explotaciones que requieren conocer como funciona la vulnerabilidad, y no unicamente lanzar un payload generico, lo cual es un punto muy bueno.
@@ -71,6 +83,9 @@ Esto debido a que el proceso de compra es el siguiente:
 
 * En general es un examen realista.
 
+---
+---
+
 ## Puntos Negativos
 
 * Al no contar con algun curso o preparación, y ser un temario muy extenso, no sabes realmente si estas preparado para presentarla.
@@ -80,6 +95,9 @@ Esto debido a que el proceso de compra es el siguiente:
 * El precio de £800.00 a mi parecer es bastante elevado, tomando en cuenta que no incluye ningun tipo de preparación.
 
 * El proceso de compra puede parecer engañoso si no estas acostumbrado.
+
+---
+---
 
 ## En mi opinion, ¿Vale la pena?
 
@@ -96,6 +114,9 @@ En mi opinion es una buena certificación, es retadora, y algo realista, persona
 Sinceramente pense que seria una certificación muy facil que terminaria en un par de horas, y que el nombre "eXpert", era marketing, sin embargo, me sorprendio muchisimo. Es mas dificil de lo que pensaba, contiene explotaciones de vulnerabilidades clasicas en contextos avanzados, y al estar en contrarreloj hace que la presion aumente.
 
 **En conclusión, es una certificación realista, de buen nivel, y bien diseñada. El presentarla es un reto bastante divertido. Si logras obtenerla por menos de £200.00, considero que vale completamente la pena.**
+
+---
+---
 
 ## Recursos Recomendados:
 
@@ -119,6 +140,9 @@ Sinceramente pense que seria una certificación muy facil que terminaria en un p
 * https://tryhackme.com/r/room/owasptop10
 * https://tryhackme.com/r/room/wordpresscve202129447
 * https://cloud.hacktricks.xyz/pentesting-cloud/pentesting-cloud-methodology (Solo necesitas conocimientos basicos de Cloud)
+
+---
+---
 
 ## Temario:
 
