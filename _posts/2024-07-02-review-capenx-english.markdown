@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reseña CAPENX (The Secops Group) [ESPAÑOL]"
+title:  "Review CAPENX (The Secops Group) [ENGLISH]"
 date:   2024-07-02
 last_modified_at: 2024-07-02
 categories: [Certifications]
@@ -8,23 +8,23 @@ categories: [Certifications]
 
 <br /><br /><br />
 
-**FOR ENGLISH VERSION PLEASE [CLICK HERE][click-here]**
+**PARA LA VERSION EN ESPAÑOL DA [CLICK AQUI][click-here]**
 
 <br /><br /><br />
 
-**Nombre:** Certified AppSec Pentesting eXpert (CAPenX)
+**Name:** Certified AppSec Pentesting eXpert (CAPenX)
 
-**Compañia:** The SecOps Group
+**Company:** The SecOps Group
 
-**Precio:** £800
+**Price:** £800
 
-**Cupon (Actualizado al 03/07/2024):** ANNIVERSARY-80-OFF
+**Coupon (Updated 03/07/2024):** ANNIVERSARY-80-OFF
 
-**Precio despues del cupon:** £80
+**Price after coupon:** £80
 
-**Dificultad:** Intermedio/Avanzado
+**Difficulty:** Intermedio/Avanzado
 
-**Recomendada:** Depende del precio, pero en general Si.
+**Recommended:** It depends on the price, but in general, **yes.**
 
 **Url:** https://secops.group/product/certified-appsec-pentesting-expert-capenx/
 
@@ -36,77 +36,77 @@ Como es constumbre, las certificaciones de The SecOps Group no incluyen ningun t
 
 <br /><br />
 
-## ¿Como es el examen?
+## What does it include?
 
-El examen es una evaluación de tipo CTF, en la cual se nos presentan multiples flags, las cuales tenemos que obtener mediante la explotación de vulnerabilidades.
+The exam is a CTF type evaluation, in which we are presented with multiple flags, which we have to obtain by exploiting vulnerabilities.
 
-Por ejemplo, explotar una vulnerabilidad que permita visualizar archivos del servidor, y de esta forma obtener el fichero con la flag.
+For example, exploit a vulnerability that allows us to view files on the server, and thus obtain the file with the flag.
 
-Un dato muy importante es que el puntaje de la flag depende de la dificultad de explotación de la vulnerabilidad. Por lo que no todas las flags valen lo mismo.
+A very important fact is that the flag score depends on the difficulty of exploiting the vulnerability. Therefore, not all the flags are worth the same.
 
-Este examen no es supervisado, y se requiere una conexión a una VPN proporcionada por ellos.
-
-<br /><br />
-
-## ¿Como se lleva a cabo la compra?
-
-Directamente en https://secops.group/product/certified-appsec-pentesting-expert-capenx/ .
-
-Un dato importante es que no necesitas tener una cuenta registrada en el sitio, al realizar la compra, colocas un correo electronico. Es MUY IMPORTANTE COLOCAR UN CORREO ELECTRONICO AL QUE TENGAS ACCESO.
-
-Esto debido a que el proceso de compra es el siguiente:
-
-1. Realizas la compra en la pagina de The Sec Ops Group.
-2. Rellenas los datos en el formulario que se te presenta en dicho sitio.
-3. En el correo que colocaste, se te envia tu acceso a la vpn, usuario para presentar el examen, y urls de conexión.
+This exam is unsupervised, and a connection to a VPN provided by them is required.
 
 <br /><br />
 
-## Puntos Positivos
+## How is the purchase made?
 
-* Esta certificación es algo avanzada, debido a que es necesario llevar a cabo explotaciones que requieren conocer como funciona la vulnerabilidad, y no unicamente lanzar un payload generico, lo cual es un punto muy bueno.
+Directly in https://secops.group/product/certified-appsec-pentesting-expert-capenx/ .
 
-* La mayoria de dificultades presentadas son directamente porque requieres algun bypass u otra forma de explotacion, haciendolo algo realista.
+An important fact is that you do not need to have a registered account on the site, when you make the purchase, you put an email. It is VERY IMPORTANT TO PLACE AN EMAIL TO WHICH YOU HAVE ACCESS.
 
-* El modo de examen es de estilo ctf, lo cual podria parecer un punto negativo, sin embargo, es todo lo contrario. Debido a que hace que busques vulnerabilidades en todos lados, y no sea el clasico examen boot2root.
+This is because the purchase process is as follows:
 
-* Al realizar la compra, esta te incluye un retake, lo cual siempre se agradece.
-
-* En general es un examen realista.
-
-<br /><br />
-
-## Puntos Negativos
-
-* Al no contar con algun curso o preparación, y ser un temario muy extenso, no sabes realmente si estas preparado para presentarla.
-
-* El entorno del examen toma un tiempo en ser desplegado (Alrededor de 30 mins.), si bien el examen contempla este tiempo otorgandote 7:30hrs para presentarlo, en ningun momento se notifica que sera tanto tiempo, por lo cual puedes llegar a pensar que estas haciendo algo mal.
-
-* El precio de £800.00 a mi parecer es bastante elevado, tomando en cuenta que no incluye ningun tipo de preparación.
-
-* El proceso de compra puede parecer engañoso si no estas acostumbrado.
+1. You make the purchase on The Sec Ops Group website.
+2. Fill in the information in the form that is presented to you on the site.
+3. In the email that you have placed, you will be sent your vpn access, user to submit the exam, and connection urls.
 
 <br /><br />
 
-## En mi opinion, ¿Vale la pena?
+## Pros
 
-Sinceramente, depende mucho del precio.
+* This certification is somewhat advanced, because you need to perform exploits that require you to know how the vulnerability works, and not just launch a generic payload, which is a very good point.
 
-El precio regular del examen es de £800.00, lo cual en mi opinión es bastante elevado, y no vale la pena. Esto debido a que es una certificación nueva, que aun no tiene mucho peso en el CV / Hoja de Vida. Esto debido a que muy poca gente la a presentado, y los reclutadores/empresas aun no la han catalogado como una certificacion de valor. Esto posiblemente cambie con el tiempo.
+* Most of the difficulties presented are directly because you require some bypass or other form of exploit, making it somewhat realistic.
 
-De igual forma, al no poseer ningun tipo de curso. Entramos en un dilema, es una certificación de precio elevado, que no es muy solicitada, y que tampoco te aportara conocimientos mediante un curso. Lo cual lo vuelve algo a tomar muy en cuenta.
+* The exam mode is ctf style, which might seem like a negative point, however, it is quite the opposite. Because it makes you look for vulnerabilities everywhere, and it is not the classic boot2root exam.
 
-Sin embargo, constantemente The Sec Ops Group pone sus certificaciones en oferta. La mayoria del tiempo estas tienen un descuento del 50%, y en algunas ocasiones dicho descuento aumenta. En mi caso, logre obtenerla por £40.00 en su oferta de lanzamiento, lo cual la vuelve una certificación super accesible tomando en cuenta los precios regulares de la industria.
+* When you make the purchase, it includes a retake, which is always appreciated.
 
-En mi opinion es una buena certificación, es retadora, y algo realista, personalmente la clasificaria de dificultad intermedia/avanzada. En su mayoria el temario se enfoca en vulnerabilidades web, lo cual hace que si te dedicas a pentesting web desde hace un tiempo, o tienes buenas bases de éste, puedas presentarla casi sin preparación previa. Tiene muy buena duración y tambien es bastante divertida.
-
-Sinceramente pense que seria una certificación muy facil que terminaria en un par de horas, y que el nombre "eXpert", era marketing, sin embargo, me sorprendio muchisimo. Es mas dificil de lo que pensaba, contiene explotaciones de vulnerabilidades clasicas en contextos avanzados, y al estar en contrarreloj hace que la presion aumente.
-
-**En conclusión, es una certificación realista, de buen nivel, y bien diseñada. El presentarla es un reto bastante divertido. Si logras obtenerla por menos de £200.00, considero que vale completamente la pena.**
+* In general it is a realistic exam, taking into account that it is of CTF type.
 
 <br /><br />
 
-## Recursos Recomendados:
+## Cons
+
+* Not having any course or preparation, and being a very extensive syllabus, you do not really know if you are prepared to present it.
+
+* The environment of the exam takes some time to be displayed (about 30 mins.), although the exam contemplates this time giving you 7:30hrs to present it, at no time is it notified that it will be so long, so you may think that you are doing something wrong.
+
+* The price of £800.00 in my opinion is quite high, taking into account that it does not include any kind of preparation.
+
+* The purchase process can seem misleading if you are not used to it.
+
+<br /><br />
+
+## In my opinion, is it worth it?
+
+Honestly, it depends a lot on the price.
+
+The regular price of the exam is £800.00, which in my opinion is quite high, and not worth it. This is because it is a new certification, which does not yet carry much weight on the CV / Resume. The reason is that very few people have presented it, and recruiters/companies have not yet catalogued it as a valuable certification. This is likely to change over time.
+
+Likewise, by not having any type of coursework. We enter into a dilemma, it is a high priced certification, which is not in high demand, and it will not provide you with knowledge through a course. Which makes it something to take into account.
+
+However, The Sec Ops Group is constantly putting their certifications on offer. Most of the time they have a 50% discount, and sometimes the discount increases. In my case, I managed to get it for £40.00 on their introductory offer, which makes it a super affordable certification considering the regular industry prices.
+
+In my opinion it is a good certification, it is challenging, and somewhat realistic, personally I would classify it as intermediate/advanced difficulty. Most of the topics are focused on web vulnerabilities, which means that if you have been involved in web pentesting for a while, or have a good foundation in it, you can take it with almost no prior preparation. It has a very good duration and is also quite fun.
+
+I honestly thought it would be a very easy certification that would be finished in a couple of hours, and that the name "eXpert", was marketing, however, I was very surprised. It is more difficult than I thought, it contains exploits of classic vulnerabilities in advanced contexts, and being against the clock makes the pressure increase.
+
+**In conclusion, it is a realistic certification, of a good level, and well designed. Presenting it is a fun challenge. If you can get it for less than £200.00, I consider it completely worth it.**
+
+<br /><br />
+
+## Recommended Resources:
 
 * https://cryptohack.org/challenges/web/
 * https://portswigger.net/web-security/authentication
@@ -133,28 +133,28 @@ Sinceramente pense que seria una certificación muy facil que terminaria en un p
 
 ## Temario:
 
-* Google Hacking, Dorking y OSINT.
+* Google Hacking, Dorking and OSINT.
 * OWASP Top 10.
 * XSS
 * SQLi
 * XXE
 * CSRF
 * Cryptographic Attacks
-* Deserealizacion
+* Deserealization
 * Mass Assignment
-* Fuerza Bruta
-* Enumeración de Usuarios
+* Brute Forcing
+* User Enum
 * TLS Missconfig
 * SSRF
 * IDOR
-* Manipulacion de parametros
-* Subidas de archivos inseguras
-* Errores de logica
+* Parameter Manipulation
+* Insecure File Upload
+* Business Logic Flaws
 * Directory Traversal
-* Configuraciones inseguras
+* Common Security Misconfigurations
 * Information Disclosure
 * Common Vulnerabilities And Exposures
-* Componentes vulnerables y desactualizados
+* Vulnerable And Outdated Components
 * Common Supply Chain Attacks And Prevention Methods
 * Common Security Weaknesses Affecting Cloud Services Such As An S3 Bucket
 * Security Best Practices And Hardening Mechanisms
@@ -167,4 +167,4 @@ Sinceramente pense que seria una certificación muy facil que terminaria en un p
 * CRLF & Response Splitting
 * File Inclusion
 
-[click-here]: https://k3vzz.com/blog/2024/07/02/review-capenx-english
+[click-here]: https://k3vzz.com/blog/2024/07/02/review-capenx-español
