@@ -22,7 +22,7 @@ categories: [Certifications]
 
 **Price after coupon:** £80
 
-**Difficulty:** Intermedio/Avanzado
+**Difficulty:** Intermediate/Advanced
 
 **Recommended:** It depends on the price, but in general, **yes.**
 
