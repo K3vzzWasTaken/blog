@@ -6,13 +6,8 @@ last_modified_at: 2024-07-02
 categories: [Certifications]
 ---
 
-  
-  
-
 **FOR ENGLISH VERSION PLEASE [CLICK HERE][click-here]**
 
-  
-  
 
 **Nombre:** Certified AppSec Pentesting eXpert (CAPenX)
 
@@ -30,16 +25,12 @@ categories: [Certifications]
 
 **Url:** https://secops.group/product/certified-appsec-pentesting-expert-capenx/
 
-  
-
-
 
 ## ¿Que incluye?
 
 Como es constumbre, las certificaciones de The SecOps Group no incluyen ningun tipo de curso o capacitación, el precio es unicamente por el examen y un retake.
 
-  
-  
+<br /><br /><br /><br /><br /><br /><br />
 
 ## ¿Como es el examen?
 
