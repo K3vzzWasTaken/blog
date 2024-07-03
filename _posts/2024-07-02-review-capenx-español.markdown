@@ -6,15 +6,13 @@ last_modified_at: 2024-07-02
 categories: [Certifications]
 ---
 
----
----
----
+  
+  
 
 **FOR ENGLISH VERSION PLEASE [CLICK HERE][click-here]**
 
----
----
----
+  
+  
 
 **Nombre:** Certified AppSec Pentesting eXpert (CAPenX)
 
@@ -32,7 +30,7 @@ categories: [Certifications]
 
 **Url:** https://secops.group/product/certified-appsec-pentesting-expert-capenx/
 
----
+  
 
 
 
@@ -40,8 +38,8 @@ categories: [Certifications]
 
 Como es constumbre, las certificaciones de The SecOps Group no incluyen ningun tipo de curso o capacitación, el precio es unicamente por el examen y un retake.
 
----
----
+  
+  
 
 ## ¿Como es el examen?
 
@@ -53,8 +51,8 @@ Un dato muy importante es que el puntaje de la flag depende de la dificultad de 
 
 Este examen no es supervisado, y se requiere una conexión a una VPN proporcionada por ellos.
 
----
----
+  
+  
 
 ## ¿Como se lleva a cabo la compra?
 
@@ -68,8 +66,8 @@ Esto debido a que el proceso de compra es el siguiente:
 2. Rellenas los datos en el formulario que se te presenta en dicho sitio.
 3. En el correo que colocaste, se te envia tu acceso a la vpn, usuario para presentar el examen, y urls de conexión.
 
----
----
+  
+  
 
 ## Puntos Positivos
 
@@ -83,8 +81,8 @@ Esto debido a que el proceso de compra es el siguiente:
 
 * En general es un examen realista.
 
----
----
+  
+  
 
 ## Puntos Negativos
 
@@ -96,8 +94,8 @@ Esto debido a que el proceso de compra es el siguiente:
 
 * El proceso de compra puede parecer engañoso si no estas acostumbrado.
 
----
----
+  
+  
 
 ## En mi opinion, ¿Vale la pena?
 
@@ -115,8 +113,8 @@ Sinceramente pense que seria una certificación muy facil que terminaria en un p
 
 **En conclusión, es una certificación realista, de buen nivel, y bien diseñada. El presentarla es un reto bastante divertido. Si logras obtenerla por menos de £200.00, considero que vale completamente la pena.**
 
----
----
+  
+  
 
 ## Recursos Recomendados:
 
@@ -141,8 +139,8 @@ Sinceramente pense que seria una certificación muy facil que terminaria en un p
 * https://tryhackme.com/r/room/wordpresscve202129447
 * https://cloud.hacktricks.xyz/pentesting-cloud/pentesting-cloud-methodology (Solo necesitas conocimientos basicos de Cloud)
 
----
----
+  
+  
 
 ## Temario:
 
