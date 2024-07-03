@@ -127,11 +127,11 @@ I honestly thought it would be a very easy certification that would be finished 
 * https://tryhackme.com/r/room/nahamstore
 * https://tryhackme.com/r/room/owasptop10
 * https://tryhackme.com/r/room/wordpresscve202129447
-* https://cloud.hacktricks.xyz/pentesting-cloud/pentesting-cloud-methodology (Solo necesitas conocimientos basicos de Cloud)
+* https://cloud.hacktricks.xyz/pentesting-cloud/pentesting-cloud-methodology (You only need basic cloud knowledge)
 
 <br /><br />
 
-## Temario:
+## Syllabus:
 
 * Google Hacking, Dorking and OSINT.
 * OWASP Top 10.
