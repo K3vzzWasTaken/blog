@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-You can find my personal page [Here][here]
+You can find my personal page clicking [Here][here]
 
 Wish you enjoying my blog!
 
+---------------------------------------
 
-
-Puedes encontrar mi pagina personal [Aqui][aqui]
+Puedes encontrar mi pagina personal dando click [Aqui][aqui]
 
 Espero disfrutes de mi blog!
 
