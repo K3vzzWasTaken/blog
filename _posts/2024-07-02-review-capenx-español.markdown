@@ -72,7 +72,7 @@ Esto debido a que el proceso de compra es el siguiente:
 
 * Al realizar la compra, esta te incluye un retake, lo cual siempre se agradece.
 
-* En general es un examen realista.
+* En general es un examen realista, tomando en cuenta que es de tipo CTF.
 
 <br /><br />
 
@@ -92,7 +92,7 @@ Esto debido a que el proceso de compra es el siguiente:
 
 Sinceramente, depende mucho del precio.
 
-El precio regular del examen es de £800.00, lo cual en mi opinión es bastante elevado, y no vale la pena. Esto debido a que es una certificación nueva, que aun no tiene mucho peso en el CV / Hoja de Vida. Esto debido a que muy poca gente la a presentado, y los reclutadores/empresas aun no la han catalogado como una certificacion de valor. Esto posiblemente cambie con el tiempo.
+El precio regular del examen es de £800.00, lo cual en mi opinión es bastante elevado, y no vale la pena. Esto debido a que es una certificación nueva, que aun no tiene mucho peso en el CV / Hoja de Vida. A causa de que muy poca gente la a presentado, y los reclutadores/empresas aun no la han catalogado como una certificacion de valor. Esto posiblemente cambie con el tiempo.
 
 De igual forma, al no poseer ningun tipo de curso. Entramos en un dilema, es una certificación de precio elevado, que no es muy solicitada, y que tampoco te aportara conocimientos mediante un curso. Lo cual lo vuelve algo a tomar muy en cuenta.
 
